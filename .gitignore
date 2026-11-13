@@ -1,0 +1,6 @@
+# Downloaded media and run state — never commit these
+downloads/
+.downloaded.txt
+
+# OS cruft
+.DS_Store
