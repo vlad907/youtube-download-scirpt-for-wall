@@ -72,6 +72,7 @@ New-Item -ItemType Directory -Force -Path $Out | Out-Null
     -a "$Urls" `
     -f "bv*+ba/b" `
     --merge-output-format mp4 `
+    --no-playlist `
     -i `
     -o "$Out\%(title)s [%(id)s].%(ext)s" `
     --download-archive (Join-Path $Dir ".downloaded.txt") `

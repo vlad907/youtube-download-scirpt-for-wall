@@ -1,4 +1,12 @@
 # Paste one YouTube URL per line. Lines starting with # are ignored.
-# Then run:  ./download.sh
-#
-# https://www.youtube.com/watch?v=XXXXXXXXXXX
+# Then run the script (download.ps1 on Windows, download.sh on Mac/Linux).
+
+https://www.youtube.com/watch?v=_T6J8Ok8V_s
+https://www.youtube.com/watch?v=jroV9HN6d1Q
+https://www.youtube.com/watch?v=YbaJs4e3HiQ
+https://www.youtube.com/watch?v=NbKKAJfE84A
+https://www.youtube.com/watch?v=UYmvFzDuO5k
+https://www.youtube.com/watch?v=eTD0WWFIDAg
+https://www.youtube.com/watch?v=W8v29PUsoDg
+https://www.youtube.com/watch?v=2iRHDTFQYpY
+https://www.youtube.com/watch?v=ZmxBw_w5nqA

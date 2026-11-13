@@ -63,6 +63,7 @@ yt-dlp \
   -a "$URLS" \
   -f "bv*+ba/b" \
   --merge-output-format mp4 \
+  --no-playlist \
   -i \
   -o "$OUT/%(title)s [%(id)s].%(ext)s" \
   --download-archive "$DIR/.downloaded.txt" \
